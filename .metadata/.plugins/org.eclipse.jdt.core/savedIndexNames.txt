@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\ws-formação_desenvolvedor_moderno\cap02\desafio01\.metadata\.plugins\org.eclipse.jdt.core
+256920355.index
+569137632.index
